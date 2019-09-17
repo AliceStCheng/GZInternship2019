@@ -1,0 +1,10 @@
+validation_generator.shape is this:
+(20857,) << this is the number of files in the validation folder
+y_pred.shape is this:
+(896,)
+Y_pred.shape is this:
+(896, 1)
+validation_generator.class is this:
+[0 0 0 ... 1 1 1]
+validation_generator.class_indices is this:
+{'extended_sources': 0, 'non_es': 1}
